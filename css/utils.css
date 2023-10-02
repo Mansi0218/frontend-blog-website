@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+:root {
+    --main-bg-color: rgb(6, 23, 53);
+    --font1: 'Baloo Bhaina 2', cursive;
+    --font2: 'Raleway', sans-serif;
+}
+
+.center{
+    text-align: center;
+    margin-top: 18px;
+    /* width: 250px; */
+}
+.font1 {
+    font-family: var(--font1);
+}
+
+.font2 {
+    font-family: var(--font2);
+}
+
+.max-width-1 {
+    max-width: 85vw;
+}
+
+.max-width-2 {
+    max-width: 75vw;
+}
+
+/* to make the content centre */
+.m-auto {
+    margin: auto;
+}
+
+.my-2{
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.form-input {
+    padding: 0px 20px;
+    margin: 0 5px;
+    padding-top: 3px;
+    font-size: 14px;
+    border: 2px solid black;
+    border-radius: 4px;
+    font-family: var(--font1);
+}
+
+
+.btn {
+    margin-left: 6px;
+    padding-top: 3px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    border: 1px solid black;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+    width: 65px;
+    height: 30px;
+    color: white;
+    background-color: var(--main-bg-color);
+}
+
+.form-box input, textarea{
+    width: 40vw;
+    padding: 5px 10px;
+    margin: 7px;
+    font-size: 14px;
+    font-family: var(--font1);
+}

@@ -1,0 +1,15 @@
+.contact-content{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    background-image: url('/imgs/2.jpg');
+    margin-top: 8px;  
+    flex-direction: column;
+    
+    
+}
+
+
+
