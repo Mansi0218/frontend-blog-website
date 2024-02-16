@@ -3,8 +3,8 @@ Frontend of blog website.. simple.. multipage...
 
 **HOME**
 
-![Screenshot (74)](https://github.com/Mansi0218/frontend-blog-website/assets/95520980/ed62a791-93d5-4e91-b0dd-cb2acc028b7f)
-![Screenshot (75)](https://github.com/Mansi0218/frontend-blog-website/assets/95520980/27e0bc51-8b4b-464c-9bde-4514650336a4)
+![Screenshot (74)](https://github.com/Mansi0218/frontend-blog-website/assets/95520980/6a6483e6-0497-4124-8cc6-18309495f17d)
+![Screenshot (75)](https://github.com/Mansi0218/frontend-blog-website/assets/95520980/5753f675-8710-4783-8cf2-890be54d3419)
 
 **ABOUT**
 
